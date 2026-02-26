@@ -1,7 +1,7 @@
 # About
 
 This Gradle Plugin generates and merges Eclipse JDT core preferences from an
-exported formatter.xml file.
+exported `formatter.xml` file.
 
 ## Usage
 
